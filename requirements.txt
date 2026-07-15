@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+boto3
+python-dotenv
+opensearch-py
+requests_aws4auth
